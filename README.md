@@ -5,8 +5,7 @@
 Интересно создавать проекты, которые приносят новые эмоции и хоть какую-то пользу.  
 Стремлюсь развиваться и вдохновлять других своим примером.  
 
-<img align="right" src="https://tenor.com/bARU3.gif" alt="Анимированный Ву" width="250"/>
-
+<img align="right" src="https://media.tenor.com/bARU3.gif" alt="Анимированный Ву" width="250"/>
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
   <a href="https://t.me/SJWNMNBVOOV" target="_blank">
